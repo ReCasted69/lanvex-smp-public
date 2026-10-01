@@ -1,0 +1,4 @@
+# Explosion settings for /explode command
+explosion-power: 4.0   # TNT-like default power
+fire: false            # Should explosions cause fire?
+break-blocks: false    # Should explosions break blocks?
